@@ -1,0 +1,77 @@
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\WebApp Core.exe
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\WebApp Core.deps.json
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\WebApp Core.runtimeconfig.json
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\WebApp Core.runtimeconfig.dev.json
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\WebApp Core.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\WebApp Core.pdb
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.csprojAssemblyReference.cache
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.AssemblyInfoInputs.cache
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.AssemblyInfo.cs
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.csproj.CoreCompileInputs.cache
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.RazorTargetAssemblyInfo.cache
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\staticwebassets\WebApp Core.StaticWebAssets.Manifest.cache
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\staticwebassets\WebApp Core.StaticWebAssets.xml
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.dll
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.pdb
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.genruntimeconfig.cache
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Web Projects\WebApp Core\obj\Debug\netcoreapp3.1\WebApp Core.csproj.CopyComplete
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Data\parts.json

@@ -8,6 +8,7 @@ using WebApp_Core.Data;
 using WebApp_Core.Dto;
 using WebApp_Core.Models;
 using WebApp_Core.Helpers;
+using DotnetPractice.Dto;
 
 namespace WebApp_Core.Controllers
 {
@@ -51,6 +52,18 @@ namespace WebApp_Core.Controllers
         }
 
         [Authorize]
+        [HttpPost]
+        public async Task<IActionResult> UpdatePart(UpdatePartCountDto updatePartDto)
+        {
+            Part part = await repo.UpdatePartCount(updatePartDto.ID, updatePartDto.Count);
+            if (part == null)
+                return BadRequest("We couldnt find your request");
+
+            GeneralPartsToReturnDto partForReturn = mapper.Map<GeneralPartsToReturnDto>(part);
+            return Ok(partForReturn);
+        }
+
+        [Authorize]
         [HttpGet("{id}/kart", Name = "GetKart")]
         public async Task<IActionResult> GetKart(int id, [FromQuery] PartsParams partsParams)
         {
@@ -59,7 +72,6 @@ namespace WebApp_Core.Controllers
                 return Unauthorized();
 
             var cart = await repo.GetKart(id, partsParams);
-
             if (cart == null)
                 return BadRequest("Unable to find cart values");
 
@@ -69,10 +81,38 @@ namespace WebApp_Core.Controllers
             foreach (var part in cart)
             {
                 var partForRet = mapper.Map<PartForReturnDto>(part.Part);
+                partForRet.Amount = part.Amount;
                 cartList.Add(partForRet);
             }
             Response.AddPaginationsHeaders(cart.CurrentPage, cart.PageSize, cart.TotalCount, cart.TotalPages);
             return Ok(cartList);
+        }
+
+        [Authorize]
+        [HttpGet("{id}/kart/{partId}")]
+        public async Task<IActionResult> GetKartItem(int id, int partId)
+        {
+            var item = await repo.GetKartItem(id, partId);
+            if(item == null)
+                return BadRequest("Item is not in your kart");
+            var toReturn = mapper.Map<PartForReturnDto>(item.Part);
+            toReturn.Amount = item.Amount;
+            return Ok(toReturn);
+        }
+        
+        [Authorize]
+        [HttpPost("kart/update")]
+        public async Task<IActionResult> UpdateKartItem([FromBody]KartUpdateAmountDto body)
+        {
+            var item = await repo.UpdateKartItemAmount(body.UserId, body.PartId,body.Amount);
+            if(item == null)
+                return BadRequest("Item is not in your kart");
+            if(item.Amount < 0)
+                return BadRequest("There is only " + item.Part.Count + " " + item.Part.Name + " Remaining and you are requesting " + body.Amount );
+
+            var toReturn = mapper.Map<PartForReturnDto>(item.Part);
+            toReturn.Amount = item.Amount;
+            return Ok(toReturn);
         }
 
         [Authorize]

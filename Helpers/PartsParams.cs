@@ -10,5 +10,9 @@ namespace WebApp_Core.Helpers
             get { return pageSize; }
             set { pageSize = (value>maxPageSize ? maxPageSize : value); }
         }
+
+        public bool ByPrice {get;set;} = false;
+        public bool ByDate {get;set;} = false;
+
     }
 }

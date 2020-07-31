@@ -9,6 +9,7 @@ namespace WebApp_Core.Models
         public string Name { get; set; }
 
         public int Count {get; set;}
+        public int Amount {get; set;} = 1;
         public float Price { get; set; }
 
         public DateTime DateAdded { get; set; }

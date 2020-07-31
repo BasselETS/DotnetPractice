@@ -27,8 +27,6 @@ namespace WebApp_Core.Controllers
             this.repo = repo;
 
         }
-
-        [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] UserForRegistrationDto user)
         {
             user.Username = user.Username.ToLower();

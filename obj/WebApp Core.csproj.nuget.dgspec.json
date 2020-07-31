@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Web Projects\\WebApp Core\\WebApp Core.csproj": {}
+    "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\WebApp Core.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Web Projects\\WebApp Core\\WebApp Core.csproj": {
+    "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\WebApp Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Web Projects\\WebApp Core\\WebApp Core.csproj",
+        "projectUniqueName": "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\WebApp Core.csproj",
         "projectName": "WebApp Core",
-        "projectPath": "D:\\Documents\\Web Projects\\WebApp Core\\WebApp Core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Web Projects\\WebApp Core\\obj\\",
+        "projectPath": "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\WebApp Core.csproj",
+        "packagesPath": "C:\\Users\\Bassel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bassel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

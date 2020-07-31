@@ -11,8 +11,12 @@ namespace WebApp_Core.Helpers
             CreateMap<UserForRegistrationDto, User>();
             CreateMap<User, UserForReturnDto>();
             CreateMap<UserForReturnDto, User>();
-            CreateMap<PartForReturnDto, Part>();
-            CreateMap<Part, PartForReturnDto>();
+            CreateMap<PartForReturnDto, Part>().ForMember(dest => dest.Amount,
+             opt => opt.MapFrom(src => src.Amount));
+            //.ForMember(dest => dest.PhotoUrl,
+            // opt =>opt.MapFrom(src => src.Photos.FirstOrDefault(p => p.IsMain).Url))
+            CreateMap<Part, PartForReturnDto>().ForMember(dest => dest.Amount,
+             opt => opt.MapFrom(src => src.Amount));
             CreateMap<GeneralPartsToReturnDto, Part>();
             CreateMap<Part, GeneralPartsToReturnDto>();
         }

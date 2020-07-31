@@ -75,3 +75,80 @@ D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\AutoMapper.Extensi
 D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
 D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\Data\parts.json
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Data\parts.json
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\WebApp Core.exe
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\WebApp Core.deps.json
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\WebApp Core.runtimeconfig.json
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\WebApp Core.runtimeconfig.dev.json
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\WebApp Core.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\WebApp Core.pdb
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.csprojAssemblyReference.cache
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.AssemblyInfoInputs.cache
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.AssemblyInfo.cs
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.csproj.CoreCompileInputs.cache
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.RazorTargetAssemblyInfo.cache
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.csproj.CopyComplete
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\staticwebassets\WebApp Core.StaticWebAssets.Manifest.cache
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\staticwebassets\WebApp Core.StaticWebAssets.xml
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.dll
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.pdb
+C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.genruntimeconfig.cache

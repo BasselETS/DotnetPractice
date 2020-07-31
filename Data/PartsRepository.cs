@@ -16,7 +16,7 @@ namespace WebApp_Core.Data
         }
         public async Task<string> AddToCart(int partId, int userId)
         {
-            var found = await context.PartsAndUsers.FirstOrDefaultAsync(p => p.PartId == partId && p.UserId == userId && p.wishList == false);
+            var found = await context.PartsAndUsers.FirstOrDefaultAsync(p => p.PartId == partId && p.UserId == userId && p.wishList == false && p.purchased == false);
             var available = await context.Parts.FirstOrDefaultAsync(p => p.ID == partId);
             bool availableCount = available.Count > 0;
 
@@ -81,7 +81,7 @@ namespace WebApp_Core.Data
 
         public async Task<PagedList<PartAndUser>> GetKart(int userId, PartsParams partsParams)
         {
-            var cart = context.PartsAndUsers.Where(c => c.UserId == userId && c.wishList == false).AsQueryable();
+            var cart = context.PartsAndUsers.Where(c => c.UserId == userId && c.wishList == false && c.purchased == false).AsQueryable();
             
             return await PagedList<PartAndUser>.CreateAsync(cart, partsParams.pageNumber, partsParams.PageSize);
         }
@@ -124,7 +124,7 @@ namespace WebApp_Core.Data
 
         public async Task<PartAndUser> GetKartItem(int userId, int kartItemID)
         {
-            var kartItem = await context.PartsAndUsers.FirstOrDefaultAsync(p => p.UserId == userId && p.PartId == kartItemID);
+            var kartItem = await context.PartsAndUsers.FirstOrDefaultAsync(p => p.UserId == userId && p.PartId == kartItemID && p.purchased == false);
             return kartItem;
         }
 
@@ -153,6 +153,12 @@ namespace WebApp_Core.Data
             part.Count += amount;
             await context.SaveChangesAsync();
             return part;
+        }
+
+        public async Task<PagedList<PartAndUser>> GetPurchasedParts(int userId, PartsParams partsParams)
+        {
+            var pruchased = context.PartsAndUsers.Where(c => c.UserId == userId && c.purchased == true).AsQueryable();
+            return await PagedList<PartAndUser>.CreateAsync(pruchased, partsParams.pageNumber, partsParams.PageSize);
         }
     }
 }

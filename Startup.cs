@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
+using DotnetPractice.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -40,6 +41,7 @@ namespace WebApp_Core
             services.AddCors();
             services.AddScoped<IAuthRepository, AuthRepository>();
             services.AddScoped<IPartsRepository, PartsRepository>();
+            services.AddScoped<IPurchasing, PurchasingRepository>();
             services.AddAutoMapper(typeof(AuthRepository).Assembly);
             services.AddControllersWithViews()
     .AddNewtonsoftJson(options =>

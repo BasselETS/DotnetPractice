@@ -1,3 +1,5 @@
+using System;
+
 namespace WebApp_Core.Models
 {
     public class PartAndUser
@@ -12,5 +14,7 @@ namespace WebApp_Core.Models
         public virtual User User { get; set; }
         public virtual Part Part  { get; set; }
 
+        public bool purchased {get; set;}
+        public DateTime DateOfPurchase {get; set;}
     }
 }

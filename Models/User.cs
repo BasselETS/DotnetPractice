@@ -7,6 +7,7 @@ namespace WebApp_Core.Models
     {
         public int ID { get; set; }
 
+        public float CashAmount { get; set; }
         public string Username { get; set; }    
         public byte[] PasswordHash { get; set; }
         public byte[] PasswordSalt { get; set; }

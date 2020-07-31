@@ -11,6 +11,7 @@ namespace WebApp_Core.Data
          Task<Part> UpdatePartCount(int id, int amount);
          Task<PagedList<PartAndUser>> GetWishList(int userId,PartsParams partsParams);
          Task<PagedList<PartAndUser>> GetKart(int userId,PartsParams partsParams);
+         Task<PagedList<PartAndUser>> GetPurchasedParts(int userId,PartsParams partsParams);
          Task<PartAndUser> GetKartItem(int userId, int kartItemID);
          Task<PartAndUser> UpdateKartItemAmount(int userId, int kartItemID, int amount);
          Task<bool> DeletePart(bool wishlist, int userId, int partId);

@@ -68,5 +68,26 @@ namespace WebApp_Core.Data
             }
            
         }
+
+        public async Task<bool> CheckOTP(int id, string otp)
+        {
+            var user = await context.Users.FirstOrDefaultAsync(u => u.ID == id);
+            bool success = false;
+            if(user.OtpToCheckWith == otp)
+                success = true;
+            user.OTPAuth = success;
+            if(success)
+                await context.SaveChangesAsync();
+
+            return success;
+        }
+
+        public async Task<string> SavePhoto(int id, string url)
+        {
+            var User = await context.Users.FirstOrDefaultAsync(u => u.ID == id);
+            User.PhotoUrl = url;
+            await context.SaveChangesAsync();
+            return url;
+        }
     }
 }

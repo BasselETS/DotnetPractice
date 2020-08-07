@@ -152,3 +152,7 @@ C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcore
 C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.dll
 C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.pdb
 C:\Users\Bassel\Documents\Projects\Dotnet\Store\DotnetPractice\obj\Debug\netcoreapp3.1\WebApp Core.genruntimeconfig.cache
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Documents\Web Projects\WebApp Core\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll

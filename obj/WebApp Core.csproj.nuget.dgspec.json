@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\WebApp Core.csproj": {}
+    "D:\\Documents\\Web Projects\\WebApp Core\\WebApp Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\WebApp Core.csproj": {
+    "D:\\Documents\\Web Projects\\WebApp Core\\WebApp Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\WebApp Core.csproj",
+        "projectUniqueName": "D:\\Documents\\Web Projects\\WebApp Core\\WebApp Core.csproj",
         "projectName": "WebApp Core",
-        "projectPath": "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\WebApp Core.csproj",
-        "packagesPath": "C:\\Users\\Bassel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bassel\\Documents\\Projects\\Dotnet\\Store\\DotnetPractice\\obj\\",
+        "projectPath": "D:\\Documents\\Web Projects\\WebApp Core\\WebApp Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Web Projects\\WebApp Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Bassel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,6 +44,14 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.8.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -93,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

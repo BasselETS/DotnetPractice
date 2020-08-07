@@ -17,6 +17,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
 using WebApp_Core.Data;
+using WebApp_Core.Helpers;
 
 namespace WebApp_Core
 {
@@ -39,10 +40,13 @@ namespace WebApp_Core
             (Configuration.GetConnectionString("DefaultConnection"));
             } );
             services.AddCors();
+            services.Configure<SmptSettings>(Configuration.GetSection("SmptSettings"));
             services.AddScoped<IAuthRepository, AuthRepository>();
             services.AddScoped<IPartsRepository, PartsRepository>();
             services.AddScoped<IPurchasing, PurchasingRepository>();
+            services.AddScoped<IPhotoRepository, PhotoRepository>();
             services.AddAutoMapper(typeof(AuthRepository).Assembly);
+            services.Configure<CloudinarySettings>(Configuration.GetSection("CloudinarySettings"));
             services.AddControllersWithViews()
     .AddNewtonsoftJson(options =>
     options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore

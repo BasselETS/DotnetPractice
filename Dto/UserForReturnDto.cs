@@ -9,5 +9,6 @@ namespace WebApp_Core.Dto
         public string Username { get; set; }   
         public float CashAmount { get; set; }
         public DateTime DateOfBirth { get; set; }
+        public string PhotoUrl { get; set; }
     }
 }
